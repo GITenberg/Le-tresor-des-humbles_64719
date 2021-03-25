@@ -1,5 +1,8 @@
 _repo: Le-tresor-des-humbles_64719
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64719-h/images/cover.jpg
 creator:
   author:
     agent_name: Maeterlinck, Maurice
@@ -11,6 +14,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Maurice_Maeterlinck
     - https://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64719#Le-tresor-des-humbles
 gutenberg_issued: '2021-03-06'
 gutenberg_type: Text
 identifiers:
